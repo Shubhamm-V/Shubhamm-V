@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Vyavhare</h1>
 <h3 align="center">Aiming for become one of the greatest developer in the world.</h3>
-
+<br/>
 <p align="left">  <img align = "right" src="https://komarev.com/ghpvc/?username=shubhamm-v&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamm-v" /> </p> 
 
 
