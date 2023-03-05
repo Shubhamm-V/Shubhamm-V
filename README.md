@@ -34,7 +34,7 @@
 
 <h3 align="left">Github Statistics:</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=shubhamm-v&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=shubhamm-v&theme=flat&column=7&margin-w=10" alt="logo" align="center" />
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamm-v&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shubhamm-v" /></p>
