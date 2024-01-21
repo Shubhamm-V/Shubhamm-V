@@ -1,9 +1,7 @@
 <p align="left">  <img align = "right" src="https://komarev.com/ghpvc/?username=shubhamm-v&label=Profile%20Views&color=088EA5&style=rounded" alt="shubhamm-v" /> </p> 
 
 # 💫 About Me
- <div>
-   <img src = "profile-img.png" style = "height:50%"  align= "right"/>
- </div>
+   <img src = "profile-img.png" style = "height:50%;margin-bottom:30px"  align= "right"/>
 <div style = "width: 100%;display:flex;justify-content:space-between">
  <div style = "width: 70%">
   <br/>
